@@ -11,6 +11,7 @@ namespace GItHUBCRMINT_POC
         static void Main(string[] args)
         {
             Console.WriteLine("GIT HUB Demo Haan....");
+            Console.WriteLine("Syn Data....");
             Console.ReadLine();
         }
     }
